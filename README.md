@@ -1,50 +1,30 @@
-# 🚴‍♂️ Bikcraft
-
-Site estático de uma marca fictícia de bicicletas artesanais. Projeto de estudo focado em **HTML5** e **CSS3**, com páginas múltiplas e layout semântico.
+# Bikcraft
 
 ![banner do projeto](/img/preview.png)
 
----
+Site estático do projeto **Bikcraft** — landing page responsiva para apresentação de produtos/serviços de bicicletas (layout moderno, foco em performance, sem dependências pesadas).
 
-## 🧭 Sumário
-- [Sobre](#-sobre)
-- [Páginas](#-páginas)
-- [Tecnologias](#-tecnologias)
-- [Como rodar localmente](#-como-rodar-localmente)
-- [Estrutura de pastas](#-estrutura-de-pastas)
-- [Roadmap](#-roadmap)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
+> **Demo:** https://zatticode.github.io/bikcraft  
+> **Repositório:** https://github.com/ZattiCode/bikcraft
 
 ---
 
-## 📌 Sobre
-O **Bikcraft** é um site estático multi-páginas criado para praticar marcação semântica, composição de layouts e organização de CSS. Inclui páginas de listagem de produtos, termos e contato.
+## ✨ Funcionalidades
+- Layout **responsivo** (mobile-first)
+- Navegação simples e objetiva
+- Seções de destaque para produtos/benefícios
+- Marcação semântica em **HTML5**
+- Estilização com **CSS3** (Grid/Flexbox)
+- Organização de assets em pastas
 
-**Status:** em construção 🚧
+## 🧱 Tecnologias
+- **HTML5**
+- **CSS3** (Flexbox, Grid)
+- **JavaScript** (interações leves, se aplicável)
 
----
-
-## 🗺 Páginas
-- `index.html` — Página inicial (landing)
-- `bicicletas.html` — Modelos e detalhes das bikes
-- `seguros.html` — Planos e coberturas
-- `contato.html` — Informações e formulário de contato
-- `orcamento.html` — Página de orçamento
-- `termos.html` — Termos e condições
-
----
-
-## 🧰 Tecnologias
-- **HTML5** — semântico, estrutura do conteúdo
-- **CSS3** — estilos, layout e responsividade básica
-
-> Sem dependências ou frameworks obrigatórios.
-
----
+> *Observação:* projeto 100% estático — não requer backend.
 
 ## 🚀 Como rodar localmente
 1. **Clone** o repositório:
    ```bash
    git clone https://github.com/ZattiCode/bikcraft.git
-   cd bikcraft
