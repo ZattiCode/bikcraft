@@ -2,7 +2,7 @@
 
 Site estático de uma marca fictícia de bicicletas artesanais. Projeto de estudo focado em **HTML5** e **CSS3**, com páginas múltiplas e layout semântico.
 
-![banner do projeto](./img/preview.jpg)
+![banner do projeto](/img/preview.png)
 
 ---
 
